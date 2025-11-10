@@ -53,6 +53,14 @@ server.py
 
 ## OUPUT
 
+    client - side output:
+
+<img width="736" height="265" alt="image" src="https://github.com/user-attachments/assets/30f826f5-bc7a-4438-be07-3e3f9ea75bb8" />
+
+    server - side output:
+
+<img width="808" height="254" alt="image" src="https://github.com/user-attachments/assets/789b9871-4ceb-40e8-9b85-f252c76af94d" />
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
